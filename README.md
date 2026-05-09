@@ -2,6 +2,12 @@
 
 Proyek ini berisi aplikasi machine learning sederhana untuk memprediksi kualitas jeruk berdasarkan karakteristik fisik dan informasi panen. Model dilatih dari dataset `jeruk_balance_500.csv`, disimpan sebagai file `model_klasifikasi_jeruk.joblib`, lalu digunakan oleh aplikasi Streamlit pada `app_streamlit.py`.
 
+## Demo Aplikasi
+
+Aplikasi sudah dideploy dan dapat diakses melalui link berikut:
+
+https://ml-klasifikasi-jeruk.streamlit.app/
+
 ## Fitur
 
 - Prediksi kualitas jeruk melalui antarmuka web Streamlit.
